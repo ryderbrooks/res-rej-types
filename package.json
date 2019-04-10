@@ -1,6 +1,6 @@
 {
   "name": "res-rej-types",
-  "version": "0.1.1",
+  "version": "0.0.1",
   "description": "Type definitions for Promise resolve/reject callbacks",
   "main": "dist/index",
   "types": "dist/index",
