@@ -1,6 +1,6 @@
 {
   "name": "res-rej-types",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Type definitions for Promise resolve/reject callbacks",
   "main": "dist/index",
   "types": "dist/index",
@@ -21,7 +21,12 @@
     "dist/index.d.ts",
     "dist/lib/*.js"
   ],
-  "keywords": ["promise", "resolve", "reject", "types"],
+  "keywords": [
+    "promise",
+    "resolve",
+    "reject",
+    "types"
+  ],
   "author": "Ryder Brooks",
   "license": "ISC",
   "devDependencies": {
