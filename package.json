@@ -25,7 +25,7 @@
     "promise",
     "resolve",
     "reject",
-    "types"
+    "typescript"
   ],
   "author": "Ryder Brooks",
   "license": "ISC",
