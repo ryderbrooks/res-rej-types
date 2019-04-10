@@ -1,0 +1,38 @@
+{
+  "name": "res-rej-types",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "setup": "npm install",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "homepage": "https://github.com/ryderbrooks",
+  "bugs": {
+    "url": ""
+  },
+  "files": [
+    "dist/index.js",
+    "dist/index.d.ts",
+    "dist/lib/*.js"
+  ],
+  "keywords": [],
+  "author": "Ryder Brooks",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^11.13.4",
+    "@typescript-eslint/eslint-plugin": "^1.6.0",
+    "@typescript-eslint/parser": "^1.6.0",
+    "@typescript-eslint/typescript-estree": "^1.6.0",
+    "eslint": "^5.16.0",
+    "typescript": "^3.4.3"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
